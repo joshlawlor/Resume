@@ -1,0 +1,20 @@
+{
+    "name": "Joshua Lawlor",
+    "website": "https://github.com/joshlawlor/",
+    "linkedin": "https://linkedin.com/in/joshualawlor001",
+    "email": "joshlawlor1@gmail.com",
+    "resume": "https://joshlawlor.github.io/Project-1--Starman/",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+    ],
+    "otherSkills": [
+        "Chess",
+        "Leadership",
+        "Poker"
+    ]
+}
