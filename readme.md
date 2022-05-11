@@ -1,0 +1,1 @@
+Added personal info, and link to my first project as my resume for now.
